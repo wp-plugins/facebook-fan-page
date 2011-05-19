@@ -9,12 +9,17 @@ Install a Facebook Fan Page widget for your wordpress blog.
 Turn your visitors into fans of your Facebook page. BumpIn Facebook Fan Page widget fully integrates your page on Facebook with your website/blog. It not only increases the fans of your page but also the time spent by the visitors on your site and dcreases the bounce rate.
 Following is the list of features of the plugin.
 
-Users can become fans in just one click without leaving your website
-Full fan page stream including all the wall posts and user comments
-Official and Fan messages can be viewed in separate tabs
-Photos of featured fans
-Number of fans
-Post full messages to your Fan Page wall
+Users can become fans in just one click without leaving your website.
+
+Full fan page stream including all the wall posts and user comments.
+
+Official and Fan messages can be viewed in separate tabs.
+
+Photos of featured fans.
+
+Number of fans.
+
+Post full messages to your Fan Page wall.
 
 
 == Installation ==
