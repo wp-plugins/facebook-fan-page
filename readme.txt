@@ -1,4 +1,4 @@
-=== BumpIn ===
+=== Facebook Fan Page ===
 Contributors: BumpIn Team
 Donate link: http://www.bumpin.com/
 Tags: facebook, fan page, bumpin, social network
