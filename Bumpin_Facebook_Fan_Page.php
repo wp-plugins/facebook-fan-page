@@ -58,7 +58,7 @@ function widget_bumpin_fb_fanpage_control( $args=null ) {
 		<span style="text-align:justify;">
 
                     <ol>
-                        <li><a href = "http://socialbar.bumpin.com/user_session/new" target = "_blank">Login to SocialBar Admin page</a>. Your login name is the email id you used for registration.</li>
+                        <li><a href = "http://socialbar.ticketmy.com/user_session/new" target = "_blank">Login to SocialBar Admin page</a>. Your login name is the email id you used for registration.</li>
                         <li>Click on the "Edit Socialbar" link, click the "Facebook Fanpage" app in the "Select Applications" tab.</li>
                         <li>Provide your Facebook Fanpage id.</li>
                         <li>Hit the "Update" button and refresh your website to start using Facebook Fanpage in the BumpIn SocialBar.</li>
@@ -74,7 +74,7 @@ function widget_bumpin_fb_fanpage_control( $args=null ) {
 		</p>
 		<p style="text-align:justify;">
 			<span style="font-family:times;color:#585858;font-size:16px;font-weight:bold">Admin: </span>
-			You can add more applications to the SocialBar and customize theme of the SocialBar according to your site from the admin site. Your login name is the email you used for registration. The changes you make to the SocialBar from the admin dashboard will be automatically reflected on your blog/site.<a href = "http://socialbar.bumpin.com/user_session/new" target = "_blank">Click Here to go to SocialBar Admin Site</a> 
+			You can add more applications to the SocialBar and customize theme of the SocialBar according to your site from the admin site. Your login name is the email you used for registration. The changes you make to the SocialBar from the admin dashboard will be automatically reflected on your blog/site.<a href = "http://socialbar.ticketmy.com/user_session/new" target = "_blank">Click Here to go to SocialBar Admin Site</a> 
 		</p>
 <?php
 	}
@@ -92,7 +92,7 @@ function widget_bumpin_fb_fanpage_control( $args=null ) {
 	</p>
 	<p style="text-align:justify;">
 		<span style="font-family:times;color:black;font-size:16px;font-weight:bold">- BumpIn Socialbar:</span> 
-		To get the code for the bar <a href = "http://socialbar.bumpin.com/checkout?wordpress=true" target = "_blank">Click Here</a>
+		To get the code for the bar <a href = "http://socialbar.ticketmy.com/checkout?wordpress=true&plugin=true&facebook_fanpage=true" target = "_blank">Click Here</a>
 	</p>
 	<p>
 		<textarea style="width: 590px; height: 150px;" id="bumpin_code" name="bumpin_code"><?php echo $bumpin_code; ?></textarea>
@@ -104,11 +104,11 @@ function widget_bumpin_fb_fanpage_control( $args=null ) {
 	</p>
 	<p style="text-align:justify;">
 		<span style="font-family:times;color:#585858;font-size:16px;font-weight:bold">Admin: </span>
-		You can login to moderate and re-customize the widget. Your login name is the email you used for registration. The changes you make to the SocialBar widgets from the admin dashboard 			will be automatically reflected on your blog/site.<a href = "http://socialbar.bumpin.com/user_session/new" target = "_blank">Click Here for Socialbar Admin</a> 
+		You can login to moderate and re-customize the widget. Your login name is the email you used for registration. The changes you make to the SocialBar widgets from the admin dashboard 			will be automatically reflected on your blog/site.<a href = "http://socialbar.ticketmy.com/user_session/new" target = "_blank">Click Here for Socialbar Admin</a> 
 	</p>
 	<p style="text-align:justify;">
 		<span style="font-family:times;color:#FF6600;font-size:16px;font-weight:bold">* </span>
-		If you have forgotten your password, you can reset it <a href="http://site.bumpin.com/site/forgot_password/" target="_blank">(Click to reset password)</a>, by verifying your email 		address.
+		If you have forgotten your password, you can reset it <a href="http://socialbar.ticketmy.com/site/forgot_password/" target="_blank">(Click to reset password)</a>, by verifying your email 		address.
 	</p>
 
 <?php
