@@ -130,4 +130,3 @@ function bumpin_fb_fanpage_init()
 }
 add_action("plugins_loaded", "bumpin_fb_fanpage_init");
 ?>
-
